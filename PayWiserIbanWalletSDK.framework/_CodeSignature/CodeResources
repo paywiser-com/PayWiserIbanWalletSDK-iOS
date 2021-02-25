@@ -18,27 +18,35 @@
 		</data>
 		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		E092L/D9kkG+SxCn/SJfqWxK+I0=
+		Zv4AgEbzJHS92dwVofIpCJ8uAYQ=
 		</data>
 		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		E092L/D9kkG+SxCn/SJfqWxK+I0=
+		Zv4AgEbzJHS92dwVofIpCJ8uAYQ=
 		</data>
 		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
 		SVBDWOHGSVzkGZ/pTZPM1HL+2AA=
 		</data>
+		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		rnxngEw+6jP/FxPjwuKT5rmfGVo=
+		</data>
 		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		KG5hJgg2C37jLHPljzVeQDRA2co=
+		3aDY8nSpDrDZ+Gscj5iI+6ajXs8=
 		</data>
 		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
 		SVBDWOHGSVzkGZ/pTZPM1HL+2AA=
 		</data>
+		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		rnxngEw+6jP/FxPjwuKT5rmfGVo=
+		</data>
 		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		KG5hJgg2C37jLHPljzVeQDRA2co=
+		3aDY8nSpDrDZ+Gscj5iI+6ajXs8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -46,7 +54,7 @@
 		</data>
 		<key>PayWiserIbanWalletSDK.podspec</key>
 		<data>
-		Kr8+vguG/M6nSC3bkPojWvJd884=
+		WfWrMhG9al3tq8r0J6AbdRtf7JQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -69,14 +77,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DnUQwmMbjwZDAyZ8YrKkzNGNwsc5TOs1EJiF3ynz2so=
+			g7rQqKgN2U9KKYXrY0ElDt64HpZrR09a8ID+eNNuRKc=
 			</data>
 		</dict>
 		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DnUQwmMbjwZDAyZ8YrKkzNGNwsc5TOs1EJiF3ynz2so=
+			g7rQqKgN2U9KKYXrY0ElDt64HpZrR09a8ID+eNNuRKc=
 			</data>
 		</dict>
 		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -86,11 +94,18 @@
 			xzpedK+HFL/Ob1v3APiw1NH1sZ9yW/xDvf1RCu9aTVE=
 			</data>
 		</dict>
+		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4DQ07EsMmXx7i42BRXg8DqMO43DtOgQd/PjkjkiT9ow=
+			</data>
+		</dict>
 		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LqoBNymtto/YYmULkFHJTfxET2t3/K6T9wHYlE0x1+M=
+			NoxsD+MhAtxsx0jMS+8lOityCLUXFKzX6dNYXqSDURU=
 			</data>
 		</dict>
 		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/arm64.swiftdoc</key>
@@ -100,11 +115,18 @@
 			xzpedK+HFL/Ob1v3APiw1NH1sZ9yW/xDvf1RCu9aTVE=
 			</data>
 		</dict>
+		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4DQ07EsMmXx7i42BRXg8DqMO43DtOgQd/PjkjkiT9ow=
+			</data>
+		</dict>
 		<key>Modules/PayWiserIbanWalletSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LqoBNymtto/YYmULkFHJTfxET2t3/K6T9wHYlE0x1+M=
+			NoxsD+MhAtxsx0jMS+8lOityCLUXFKzX6dNYXqSDURU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -118,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WZXxO6d4Jb9jME36m3E6+nJniJ0FA2yhqdtemy7wkIc=
+			IObRudPF9/1SlhRHVJVCzp71W61DouMB/Wm+w1NXQvk=
 			</data>
 		</dict>
 	</dict>
