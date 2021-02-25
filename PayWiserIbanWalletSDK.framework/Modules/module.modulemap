@@ -1,0 +1,11 @@
+framework module PayWiserIbanWalletSDK {
+  umbrella header "PayWiserIbanWalletSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module PayWiserIbanWalletSDK.Swift {
+    header "PayWiserIbanWalletSDK-Swift.h"
+    requires objc
+}
