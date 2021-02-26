@@ -825,6 +825,9 @@ open class URLEncodedFormParameterEncoder : PayWiserIbanWalletSDK.ParameterEncod
   open func encode<Parameters>(_ parameters: Parameters?, into request: Foundation.URLRequest) throws -> Foundation.URLRequest where Parameters : Swift.Encodable
   @objc deinit
 }
+public struct ListIbansResponse : Swift.Decodable {
+  public init(from decoder: Swift.Decoder) throws
+}
 public struct PWIban : Swift.Decodable {
   public var ID: Swift.String
   public var Iban: Swift.String
